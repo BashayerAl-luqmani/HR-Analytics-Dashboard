@@ -180,7 +180,7 @@ The dashboard includes important HR indicators:
 3. Dashboard design and visualization using Power BI.
 4. Extracting insights to support HR decision-making.
 
----
+
 
 # Conclusion
 
