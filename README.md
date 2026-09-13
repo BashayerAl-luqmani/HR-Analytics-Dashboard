@@ -58,7 +58,7 @@ The dashboard contains 7 main visuals:
 Shows the distribution of employee attrition across different departments.
 
 **Key Insight:**
-Identifies departments with higher employee turnover rates.
+Identifies departments with higher employee turnover rates
 
 ---
 
